@@ -22,3 +22,5 @@ public class ProductoRepository {
         return listaProductos.removeIf(b -> b.getNombre().equals(nombre));
     }
 }
+
+holi
